@@ -1,0 +1,91 @@
+# depslib dependency file v1.0
+1656026296 source:c:\users\juan\onedrive\documentos\proyecto de laboratorio\proyectograncerdo\main.cpp
+	<iostream>
+	<cstring>
+	<locale.h>
+	<stdio.h>
+	<wchar.h>
+	<cstdlib>
+	<ctime>
+
+1656083748 source:c:\users\juan\onedrive\documentos\proyecto de laboratorio\proyecto2.0\main.cpp
+	<iostream>
+	<cstring>
+	<locale.h>
+	<stdio.h>
+	<wchar.h>
+	<cstdlib>
+	<ctime>
+
+1656086551 source:c:\users\juan\onedrive\documentos\proyecto de laboratorio\proyecto2.0\funciones.cpp
+	"bibliotecas.h"
+	"funciones.h"
+
+1656086165 c:\users\juan\onedrive\documentos\proyecto de laboratorio\proyecto2.0\bibliotecas.h
+	<iostream>
+	<cstring>
+	<locale.h>
+	<stdio.h>
+	<wchar.h>
+	<cstdlib>
+	<ctime>
+
+1656086165 c:\users\juan\onedrive\documentos\proyecto de laboratorio\proyecto2.0\funciones.h
+
+1656087210 source:c:\users\juan\onedrive\documentos\proyecto de laboratorio\proyectoparaentrega\main.cpp
+	"bibliotecas.h"
+	"funciones.h"
+
+1656086165 c:\users\juan\onedrive\documentos\proyecto de laboratorio\proyectoparaentrega\bibliotecas.h
+	<iostream>
+	<cstring>
+	<locale.h>
+	<stdio.h>
+	<wchar.h>
+	<cstdlib>
+	<ctime>
+
+1656086165 c:\users\juan\onedrive\documentos\proyecto de laboratorio\proyectoparaentrega\funciones.h
+
+1656087889 source:c:\users\juan\onedrive\documentos\proyecto de laboratorio\proyectoparaentrega\funciones.cpp
+	"bibliotecas.h"
+	"funciones.h"
+
+1656106127 source:c:\users\juan\onedrive\documentos\proyecto de laboratorio\paraelzoom\funciones.cpp
+	"bibliotecas.h"
+	"funciones.h"
+
+1656086165 c:\users\juan\onedrive\documentos\proyecto de laboratorio\paraelzoom\bibliotecas.h
+	<iostream>
+	<cstring>
+	<locale.h>
+	<stdio.h>
+	<wchar.h>
+	<cstdlib>
+	<ctime>
+
+1656108328 c:\users\juan\onedrive\documentos\proyecto de laboratorio\paraelzoom\funciones.h
+
+1656108327 source:c:\users\juan\onedrive\documentos\proyecto de laboratorio\paraelzoom\main.cpp
+	"bibliotecas.h"
+	"funciones.h"
+
+1656108596 source:c:\users\joaquin\desktop\proyecto gran cerdo laboratorio 1\funciones.cpp
+	"bibliotecas.h"
+	"funciones.h"
+
+1656086165 c:\users\joaquin\desktop\proyecto gran cerdo laboratorio 1\bibliotecas.h
+	<iostream>
+	<cstring>
+	<locale.h>
+	<stdio.h>
+	<wchar.h>
+	<cstdlib>
+	<ctime>
+
+1656108328 c:\users\joaquin\desktop\proyecto gran cerdo laboratorio 1\funciones.h
+
+1666633424 source:c:\users\joaquin\desktop\proyecto gran cerdo laboratorio 1\main.cpp
+	"bibliotecas.h"
+	"funciones.h"
+
